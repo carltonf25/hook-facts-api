@@ -1,14 +1,14 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "hookFacts": [
+    "When the Bannings fly to England, the pilot's voice is that of Dustin Hoffman (Captain Hook) - \"This is your captain speaking...\"",
+    "The kissing couple who begin to float when some fairy dust lands on them were George Lucas and Carrie Fisher in a cameo.",
+    "Gutless, the male bearded pirate, who is locked in the \"Boo Box\" with scorpions, was played by Glenn Close.",
+    "Bob Hoskins bought beer for 300+ extras after a lengthy and complicated scene was cut.",
+    "The word \"bangarang\" is actually Jamaican slang for uproar, disorder, or disturbance.",
+    "Dustin Hoffman's three children make appearances in the movie. His youngest son, Max Hoffman played five-year-old Peter Pan. His daughter, Rebecca Hoffman played Jane in the play at the beginning of the movie, and his oldest son, Jake Hoffman played a little league player in Jack's baseball game.",
+    "Dustin Hoffman and Robin Williams' stunt doubles were named Keith. When director Steven Spielberg called for Keith to come to the set, both Keiths showed up. Eventually, Hoffman's stunt double changed his name from Keith to Keifo.",
+    "The shot in which the Captain's hook is fitted to his arm for the first time had to be done in one take as the flicker effect was achieved using rare, single use flash bulbs.",
+    "Peter and his family fly Pan Am airlines to London. Pan Am went out of business on December 4, 1991, exactly one week before the film's release on December 11, 1991.",
+    "Steven Spielberg originally asked Sir Richard Attenborough to play Tootles. Attenborough declined, as he was directing Chaplin (1992) at the time. Spielberg cast him as Dr. John Hammond in Jurassic Park (1993)."
+  ]
 }
